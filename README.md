@@ -244,4 +244,4 @@ This repository serves as the official landing page for McAfee Total Protection.
 **Get the most recent version of McAfee Total Protection today!**
 
 ---
-**Last updated:** 2026-10-21 19:52:34 UTC
+**Last updated:** 2026-10-21 22:58:18 UTC
